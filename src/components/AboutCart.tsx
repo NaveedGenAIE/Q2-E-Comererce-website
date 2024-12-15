@@ -1,6 +1,6 @@
 import Image from "next/image";
-import aboutProduct from "../../public/img/about-3.png";
-import aboutImg from "../../public/img/about-4.png";
+import aboutProduct from "@/app/img/about-3.png";
+import aboutImg from "@/app/img/about-4.png";
 import React from "react";
 
 const AboutCart = () => {

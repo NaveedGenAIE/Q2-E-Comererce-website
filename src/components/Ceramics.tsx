@@ -1,8 +1,8 @@
 import Image from "next/image";
-import photoImg from "../../public/img/Photo.png";
-import photo1Img from "../../public/img/Photo (1).png";
-import parentImg from "../../public/img/Parent.png";
-import lampImg from "../../public/img/lamp.png";
+import photoImg from "@/app/img/Photo.png";
+import photo1Img from "@/app/img/Photo (1).png";
+import parentImg from "@/app/img/Parent.png";
+import lampImg from "@/app/img/lamp.png";
 import React from "react";
 import Button from "./Button";
 

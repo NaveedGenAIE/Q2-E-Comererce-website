@@ -1,5 +1,5 @@
 import Image from "next/image";
-import aboutTwoImg from "../../public/img/about-2.png";
+import aboutTwoImg from "@/app/img/about-2.png";
 import React from "react";
 
 const AboutTwo = () => {

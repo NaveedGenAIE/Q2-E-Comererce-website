@@ -1,8 +1,8 @@
 import Image from "next/image";
-import deliveryImage from "../../public/img/delivery.png";
-import checkImage from "../../public/img/check.png";
-import purchaseImg from "../../public/img/Purchase.png";
-import sprutImg from "../../public/img/Sprout.png";
+import deliveryImage from "@/app/img/delivery.png";
+import checkImage from "@/app/img/check.png";
+import purchaseImg from "@/app/img/purchase.png";
+import sprutImg from "@/app/img/Sprout.png";
 import React from "react";
 
 const Cards = () => {

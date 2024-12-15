@@ -1,7 +1,7 @@
 import Image from "next/image";
-import sofaImg from "../../public/img/sofa.png";
-import sChair from "../../public/img/s-chair.png";
-import wChair from "../../public/img/w-chair.png";
+import sofaImg from "@/app/img/sofa.png";
+import sChair from "@/app/img/s-chair.png";
+import wChair from "@/app/img/w-chair.png";
 import React from "react";
 import Button from "./Button";
 

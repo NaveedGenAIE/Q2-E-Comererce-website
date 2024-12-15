@@ -1,7 +1,7 @@
 import React from "react";
 import Button from "./Button";
 import Image from "next/image";
-import aboutImg from "../../public/img/about-1.png";
+import aboutImg from "@/app/img/about-1.png";
 
 const About = () => {
   return (

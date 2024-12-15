@@ -1,7 +1,7 @@
 import Button from "@/components/Button";
 import React from "react";
 import Image from "next/image";
-import chairImage from "../../public/img/chair.png";
+import chairImage from "@/app/img/chair.png";
 
 const Hero = () => {
   return (

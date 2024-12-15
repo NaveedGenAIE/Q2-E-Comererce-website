@@ -1,5 +1,5 @@
 import Image from "next/image";
-import lastImg from "../../public/img/last.png";
+import lastImg from "@/app/img/last.png";
 import React from "react";
 
 const End = () => {
